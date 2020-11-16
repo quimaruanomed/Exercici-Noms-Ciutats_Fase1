@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.AssemblyInfo.cs
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.exe
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.deps.json
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.runtimeconfig.json
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.dll
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\bin\Debug\netcoreapp3.1\3.Ex_NomsCiutats.pdb
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.dll
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.pdb
+C:\Users\jruan\source\repos\3.Ex_NomsCiutats\3.Ex_NomsCiutats\obj\Debug\netcoreapp3.1\3.Ex_NomsCiutats.genruntimeconfig.cache
